@@ -1,0 +1,53 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"TileSet1",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"sand path","closed_edge":false,"name":"sand path","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[16,98,97,65,82,49,113,17,81,114,50,18,66,33,34,1,],},
+    {"$GMAutoTileSet":"","%Name":"water","closed_edge":false,"name":"water","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[191,100,99,67,84,51,115,19,83,116,52,20,68,35,36,1,],},
+    {"$GMAutoTileSet":"","%Name":"dirt path","closed_edge":false,"name":"dirt path","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[4,104,103,71,88,55,119,23,87,120,56,24,72,39,40,1,],},
+    {"$GMAutoTileSet":"","%Name":"water sand path","closed_edge":false,"name":"water sand path","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[16,106,105,73,90,57,121,25,89,122,58,26,74,41,42,0,],},
+    {"$GMAutoTileSet":"","%Name":"rock","closed_edge":false,"name":"rock","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[2,102,101,22,86,21,117,53,85,118,37,54,38,69,70,1,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[11,108,107,75,92,59,123,27,91,124,60,28,76,43,44,1,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_2","closed_edge":false,"name":"autotile_2","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[3,110,109,77,94,61,125,29,93,126,62,30,78,45,46,15,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":29,
+    "SerialiseWidth":18,
+    "TileCompressedData":[
+      -3,0,1,23,-3,71,5,24,23,71,71,24,-9,0,1,55,-3,4,5,103,104,4,4,56,-9,0,9,55,4,87,88,4,87,88,4,56,-9,0,
+      9,39,88,103,120,72,119,104,4,56,-10,0,8,55,4,56,23,104,4,87,40,-10,0,7,39,72,40,55,4,87,40,-14,0,3,39,
+      72,40,-404,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"TileSet1",
+  "out_columns":14,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tiles",
+    "path":"sprites/spr_tiles/spr_tiles.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[
+    {"$GMTileAnimation":"","%Name":"animation_1","frames":[47,63,],"name":"animation_1","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+  ],
+  "tileAnimationSpeed":1.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":208,
+}

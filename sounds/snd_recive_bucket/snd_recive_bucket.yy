@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_recive_bucket",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.766583,
+  "name":"snd_recive_bucket",
+  "parent":{
+    "name":"other",
+    "path":"folders/Sounds/other.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_recive_bucket.wav",
+  "type":0,
+  "volume":1.0,
+}

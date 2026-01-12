@@ -1,0 +1,1 @@
+message[0] = "Tip: if your meter up in the corner is full, you can press space bar to recover a heart."

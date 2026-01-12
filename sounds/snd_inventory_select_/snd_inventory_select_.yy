@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_inventory_select_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.214014,
+  "name":"snd_inventory_select_",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Sounds/UI.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_inventory_select_.wav",
+  "type":0,
+  "volume":1.0,
+}

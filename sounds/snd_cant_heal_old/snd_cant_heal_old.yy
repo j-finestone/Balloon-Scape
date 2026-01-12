@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_cant_heal_old",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.10381,
+  "name":"snd_cant_heal_old",
+  "parent":{
+    "name":"other",
+    "path":"folders/Sounds/other.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_cant_heal_old.wav",
+  "type":0,
+  "volume":1.0,
+}

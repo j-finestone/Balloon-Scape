@@ -1,0 +1,1 @@
+power_to_unlock = powers_to_recive.shuriken;

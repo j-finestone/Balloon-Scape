@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_overwold_backround_old",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":126.01787,
+  "name":"snd_overwold_backround_old",
+  "parent":{
+    "name":"Backround",
+    "path":"folders/Sounds/Backround.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_overwold_backround_old.wav",
+  "type":0,
+  "volume":0.47,
+}

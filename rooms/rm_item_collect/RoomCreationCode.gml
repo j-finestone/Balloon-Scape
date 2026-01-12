@@ -1,0 +1,1 @@
+global.start_power_recieving_cutscene = false;

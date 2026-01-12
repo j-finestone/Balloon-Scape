@@ -1,0 +1,1 @@
+if has_item("Floaty") instance_destroy();
