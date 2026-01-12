@@ -1,1 +1,68 @@
-A large-scale open world game in which you play as a wizard exploring the world to find keys from hot air balloons before its inevitable demise
+# Balloon‑Scape
+
+**Balloon‑Scape** is a 2D top-down open-world adventure game built entirely in GameMaker Studio.  
+Developed independently at age 15, this project demonstrates complex system design, state management, AI programming, and scalable game architecture.
+
+You can play Balloon-Scape here: https://jordanfeinstein.itch.io/balloon-scape
+
+---
+
+## Project Overview
+
+Balloon‑Scape lets players explore a dynamic world, interact with NPCs, fight enemies, and complete objectives.  
+Inspired by classic top-down games like Zelda, it emphasizes:
+
+- Multi-directional movement and player actions (walking, shooting, swimming, interacting)  
+- Complex enemy AI with multiple states (wandering, chasing, shooting)  
+- Performance-conscious world design using distance-based object activation  
+- Modular player and enemy state machines for scalable game logic 
+-Complex interaction between assets
+
+With **over 4,700 lines of code**, all art assets created in GameMaker Studio, and integrated sound effects, this project highlights independent development and algorithmic thinking.
+
+---
+
+## Technical Highlights
+
+- **Language:** GameMaker Language (GML)  
+- **Engine:** GameMaker Studio  
+- **Core Systems:**  
+  - Player and enemy state machines  
+  - AI with multiple behaviors and projectile attacks  
+  - Inventory system using custom data structures  
+  - Cutscenes and pause system with RAM-based screenshot overlay  
+  - Distance-based object activation/deactivation for performance  
+- **Assets:** Custom sprites and animations; free online sound effects  
+- **Version Control:** Git + GitHub (uploaded recently; development history is local)
+
+---
+
+## Gameplay
+
+- Move with arrow keys (configurable)  
+- Interact with objects and NPCs  
+- Fight enemies using shooting powers  
+- Collect items and manage inventory  
+- Explore the open world, engage in cutscenes, and complete objectives
+
+---
+
+## Skills Demonstrated
+
+- Independent project development from scratch  
+- System design for scalable, complex game mechanics  
+- Algorithmic thinking for AI and performance optimization  
+- Creative problem-solving in state management, UI, and inventory systems  
+- Self-taught programming and asset creation  
+
+This project illustrates the ability to design, implement, and optimize a large-scale software system independently.  
+
+---
+
+## About Me
+
+I’m a software engineer with experience in full project cycles, from concept to playable implementation.  
+Connect with me:  
+- GitHub: https://github.com/j-finestone 
+
+
